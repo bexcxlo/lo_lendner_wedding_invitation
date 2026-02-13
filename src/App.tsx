@@ -22,7 +22,7 @@ function App() {
   return (
     <div className="App">
       <header className="site-header">
-        REBEKAH & YOVEL
+        REBEKAH &amp; YOVEL
       </header>
       <main className="cards-container">
         <div className="top-row">
