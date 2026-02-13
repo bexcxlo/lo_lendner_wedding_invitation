@@ -130,15 +130,11 @@ html, body {
   .cards-container img {
     max-width: 50%; /* Make things larger for portrait screens */
   }
-  @font-face {
-    font-family: 'hatton';
-    src: url(./fonts/hatton-regular.ttf) format('hatton-regular');
-    font-style: normal;
-  }
 
   .site-header {
-    font-family: 'hatton';
-    font-weight: 300;
+    font-family: "Antic Didone", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 32px;
   }
 
