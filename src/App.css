@@ -125,5 +125,6 @@ html, body {
 
   .site-header {
     font-size: 32px; /* Reduce header font size for portrait screens */
+    font-family: 'hatton', serif !important;
   }
 } 
