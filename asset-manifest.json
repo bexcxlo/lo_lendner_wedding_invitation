@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lo_lendner_wedding_invitation/static/css/main.ee8464ea.css",
+    "main.css": "/lo_lendner_wedding_invitation/static/css/main.75b47745.css",
     "main.js": "/lo_lendner_wedding_invitation/static/js/main.1fae6539.js",
     "static/js/453.6eb8851c.chunk.js": "/lo_lendner_wedding_invitation/static/js/453.6eb8851c.chunk.js",
     "static/media/invitation.png": "/lo_lendner_wedding_invitation/static/media/invitation.a7fa05cd8dfe9abfb009.png",
@@ -8,12 +8,12 @@
     "static/media/rsvp.png": "/lo_lendner_wedding_invitation/static/media/rsvp.2de26bcfda39a72deaf3.png",
     "static/media/hatton-regular.ttf": "/lo_lendner_wedding_invitation/static/media/hatton-regular.09067debf2d478ab31ae.ttf",
     "index.html": "/lo_lendner_wedding_invitation/index.html",
-    "main.ee8464ea.css.map": "/lo_lendner_wedding_invitation/static/css/main.ee8464ea.css.map",
+    "main.75b47745.css.map": "/lo_lendner_wedding_invitation/static/css/main.75b47745.css.map",
     "main.1fae6539.js.map": "/lo_lendner_wedding_invitation/static/js/main.1fae6539.js.map",
     "453.6eb8851c.chunk.js.map": "/lo_lendner_wedding_invitation/static/js/453.6eb8851c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee8464ea.css",
+    "static/css/main.75b47745.css",
     "static/js/main.1fae6539.js"
   ]
 }
