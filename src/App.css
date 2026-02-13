@@ -124,7 +124,17 @@ html, body {
   }
 
   .site-header {
-    font-size: 32px; /* Reduce header font size for portrait screens */
-    font-family: 'hatton', serif !important;
+    font-family: 'hatton', serif;
+    font-weight: 300;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  @font-face {
+    font-family: 'hatton';
+    src: url(./fonts/hatton-regular.ttf) format('hatton-regular');
+    font-style: normal;
   }
 } 
