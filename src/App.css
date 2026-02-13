@@ -124,7 +124,18 @@ html, body {
   }
 
   .site-header {
-    font-family: Georgia;
+    font-family: 'hatton';
+    font-weight: 300;
     font-size: 32px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'hatton';
+    src: url(./fonts/hatton-regular.ttf) format('hatton-regular');
+    font-style: normal;
   }
 } 
