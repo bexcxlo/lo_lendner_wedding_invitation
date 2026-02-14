@@ -66,9 +66,15 @@ function App() {
                 }
               }}
             />
+            {focusedImage === rsvp && (
+              <p className="modal-caption">
+                Clicking this image will take you to our wedding website to RSVP.
+              </p>
+            )}
           </div>
         </div>
       )}
+      <p style={{color: 'white'}}>Click images to enlarge</p>
     </div>
   );
 }
